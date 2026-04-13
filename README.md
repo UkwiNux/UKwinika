@@ -9,6 +9,4 @@ Urayayi Kwinika's Repository for various topics of: Interest, Research & Develop
 - 📫 How to reach me: **linkedin.com/in/ukwinika/**
 ---
 
-### 🔗 Connect with Me
-[<img src="https://shields.io" />]linkedin.com/in/ukwinika/
 
