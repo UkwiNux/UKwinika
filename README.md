@@ -1,6 +1,6 @@
 ### 🚀 About UKwinika
 
-Urayayi Kwinika's Repository for various topics of: Interest, Research & Development Related Content and Professional Engagement.
+**Urayayi Kwinika**'s Repository for various topics of: Interest, Research & Development Related Content and Professional Engagement.
 
 **I am a Linux enthusiast, with a strong interest in Linux Systems Support** 
 
