@@ -6,7 +6,7 @@ Urayayi Kwinika's Repository for various topics of: Interest, Research & Develop
 
 ---
 - 🌱 I’m currently **Mastering the LEMP Stack** & learning the **Databases Technology** with a focus on **MySQL & PostgreSQL*
-- 📫 How to reach me: **linkedin.com/in/ukwinika/**
+- 📫 How to reach me: **https://www.linkedin.com/in/ukwinika/**
 ---
 
 
